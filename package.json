@@ -4,7 +4,8 @@
   "description": "The CodyHouse's framework is a system of SCSS globals representing the base upon which you can build the style of your web project.",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "gulp watch"
   },
   "author": "Amber Creative Lab <info@ambercreative.co>",
   "license": "MIT",
